@@ -1,0 +1,6 @@
+$contact->smtp = array(
+    'host' => 'hemacharanlakshmipathi@gmail.com',
+    'username' => 'portfolio',
+    'password' => 'ndvh jprh hmwi rrcb',
+    'port' => '587'
+  );
